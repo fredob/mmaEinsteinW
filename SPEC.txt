@@ -1,0 +1,4 @@
+Create a command file (in .m) format 
+This one holds all the definitions
+
+Explore. How to manage the initialization?
